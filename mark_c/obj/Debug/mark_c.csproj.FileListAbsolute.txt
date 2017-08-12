@@ -1,0 +1,5 @@
+C:\Users\installgentoo\Documents\Visual Studio 2015\Projects\mark_c\mark_c\bin\Debug\mark_c.dll
+C:\Users\installgentoo\Documents\Visual Studio 2015\Projects\mark_c\mark_c\bin\Debug\mark_c.pdb
+C:\Users\installgentoo\Documents\Visual Studio 2015\Projects\mark_c\mark_c\obj\Debug\mark_c.csprojResolveAssemblyReference.cache
+C:\Users\installgentoo\Documents\Visual Studio 2015\Projects\mark_c\mark_c\obj\Debug\mark_c.dll
+C:\Users\installgentoo\Documents\Visual Studio 2015\Projects\mark_c\mark_c\obj\Debug\mark_c.pdb
